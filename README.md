@@ -52,4 +52,5 @@ For any inquiries or support, please reach out:
 
 ## License
 This project is licensed under the MIT License.
+i used covid19_model.h5 i have trained it!
 ```
